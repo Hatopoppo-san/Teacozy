@@ -76,8 +76,8 @@ body {
     padding: 10px;
 }
 
-.mission-comment h2 {
-    padding-bottom: 5px;
+h2 {
+    padding-bottom: 10px;
 }
 
 .totcomment {
@@ -103,6 +103,11 @@ body {
     justify-content: center;
 }
 
-.content h4 {
+.content {
     padding: 10px;
+}
+
+.content img {
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
