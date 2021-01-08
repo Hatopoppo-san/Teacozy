@@ -22,7 +22,6 @@ html {
     height: 69px;
     z-index: 5;
     align-items: center;
-    opacity: 0.5;
 }
 
 #header .logo {
@@ -68,6 +67,7 @@ body {
     margin: auto;
     padding-top: 70px;
     display: flex;
+    opacity: 0.5;
 }
 
 .mission-comment {
